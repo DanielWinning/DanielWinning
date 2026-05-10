@@ -1,1 +1,4 @@
-# Hi, I'm Daniel 👋
+# Hi, I'm Dan 👋
+
+Software engineer based in the UK.
+
